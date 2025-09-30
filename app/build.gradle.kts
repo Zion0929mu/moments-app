@@ -12,7 +12,7 @@ android {
 
     defaultConfig {
         applicationId = "com.moments.app"
-        minSdk = 24
+        minSdk = 26
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
@@ -46,6 +46,16 @@ android {
     buildFeatures {
         viewBinding = true
         dataBinding = true
+    }
+    
+    // 为不同API级别提供不同的资源
+    sourceSets {
+        getByName("main") {
+            res.srcDirs(
+                "src/main/res",
+                "src/main/res-v26"
+            )
+        }
     }
     
     packaging {
