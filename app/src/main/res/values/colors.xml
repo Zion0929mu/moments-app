@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 主题色 - 仿微信绿色 -->
+    <color name="wechat_green">#07C160</color>
+    <color name="wechat_green_dark">#06AD56</color>
+    <color name="wechat_green_light">#E7F8F0</color>
+    
+    <!-- 基础色 -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#888888</color>
+    <color name="light_gray">#CCCCCC</color>
+    <color name="bg_gray">#F5F5F5</color>
+    
+    <!-- 文字颜色 -->
+    <color name="text_primary">#333333</color>
+    <color name="text_secondary">#666666</color>
+    <color name="text_hint">#999999</color>
+    
+    <!-- 分割线 -->
+    <color name="divider">#E5E5E5</color>
+    
+    <!-- 链接色 -->
+    <color name="link_blue">#576B95</color>
+    
+    <!-- 半透明遮罩 -->
+    <color name="black_overlay">#80000000</color>
+</resources>

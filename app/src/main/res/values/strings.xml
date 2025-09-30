@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">朋友圈</string>
+    
+    <!-- 登录页面 -->
+    <string name="login_title">欢迎来到朋友圈</string>
+    <string name="login_subtitle">使用Google账号登录</string>
+    <string name="login_button">Google 登录</string>
+    <string name="login_error">登录失败,请重试</string>
+    
+    <!-- 朋友圈页面 -->
+    <string name="moments_title">朋友圈</string>
+    <string name="moments_empty">还没有任何动态\n快去发布第一条吧!</string>
+    <string name="post_moment">发朋友圈</string>
+    <string name="logout">退出登录</string>
+    
+    <!-- 发布页面 -->
+    <string name="post_title">发表</string>
+    <string name="post_content_hint">这一刻的想法...</string>
+    <string name="post_add_image">添加图片</string>
+    <string name="post_publish">发表</string>
+    <string name="post_cancel">取消</string>
+    <string name="post_success">发布成功</string>
+    <string name="post_error">发布失败</string>
+    <string name="post_empty_content">请输入内容</string>
+    <string name="post_max_images">最多只能选择9张图片</string>
+    
+    <!-- 动态操作 -->
+    <string name="like">赞</string>
+    <string name="comment">评论</string>
+    <string name="delete">删除</string>
+    <string name="delete_confirm">确定要删除这条动态吗?</string>
+    <string name="comment_hint">说点什么...</string>
+    <string name="comment_reply_hint">回复 %s:</string>
+    <string name="send">发送</string>
+    
+    <!-- 通用 -->
+    <string name="confirm">确定</string>
+    <string name="cancel">取消</string>
+    <string name="loading">加载中...</string>
+    <string name="no_more">没有更多了</string>
+</resources>

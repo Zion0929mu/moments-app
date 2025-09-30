@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 这个值会从google-services.json自动生成 -->
+    <!-- 如果编译失败,请确保google-services.json文件已正确配置 -->
+    <string name="default_web_client_id" translatable="false">YOUR_WEB_CLIENT_ID</string>
+</resources>
